@@ -1,0 +1,3 @@
+Please use Large_Inputs_main.py to generate the Inputs.xlsx file for Case Study 3.
+Note that in the Inputs.xlsx attached, the infected individual's time has been manually changed to 4 hours (instead of 8 hours),
+inline with the description given in the paper for Case Study 3.
